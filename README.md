@@ -85,6 +85,50 @@ Principais etapas:
 - Correlações
 - Geração de insights
 
+## Glossário
+
+EDA
+Análise Exploratória de Dados.
+
+Outlier
+Observação fora do padrão esperado.
+
+Correlação
+Grau de relacionamento entre variáveis.
+
+Mediana
+Valor central de uma distribuição.
+
+Valor Nulo
+Dado ausente em uma observação.
+
+## Prompts Reutilizáveis
+
+1. Explique este conceito utilizando exemplos práticos.
+
+2. Crie um resumo em tópicos sobre este assunto.
+
+3. Gere um checklist profissional para aplicar este conhecimento.
+
+4. Quais erros iniciantes costumam cometer neste tema?
+
+5. Como esse conceito é utilizado no mercado de trabalho?
+
+## Resumo
+
+A Análise Exploratória de Dados (EDA) é o processo de investigar, resumir e visualizar dados antes da modelagem ou tomada de decisão.
+
+Principais etapas:
+
+- Entendimento dos dados
+- Limpeza dos dados
+- Tratamento de valores ausentes
+- Estatísticas descritivas
+- Análise de distribuições
+- Identificação de outliers
+- Correlações
+- Geração de insights
+
 ## Aplicação na Área de Dados
 
 Os conhecimentos adquiridos neste estudo serão aplicados em:
